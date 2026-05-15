@@ -1,1 +1,10 @@
 /*  your css code here. If applicable */
+body{
+	text-align:center;
+}
+.code{
+	width:40px;
+	height:40px;
+	font-size: 24px;
+    text-align: center;
+}
